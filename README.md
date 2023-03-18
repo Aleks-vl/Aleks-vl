@@ -1,16 +1,19 @@
-### Hi there 👋
+### Добрый день! 
+Меня зовут Александра, я junior QA Engineer.
 
-<!--
-**Aleks-vl/Aleks-vl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мой стек технологий 
+<img src="https://img.shields.io/badge/DevTools-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/YouTrack-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Android Studio-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Apidoc-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Swagger-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/JSON-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/XML-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/CygWin-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/HTML/CSS-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/JavaScript (базовые знания)-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Портфолио 
