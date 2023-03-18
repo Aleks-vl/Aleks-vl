@@ -24,7 +24,7 @@
 ### <h2 align="left">Портфолио</h2>
 <h3 align="left"><a href="https://github.com/Aleks-vl/Checklists.git" target="_blank">Чек-листы</a></h3>
 <h3 align="left"><a href="https://github.com/Aleks-vl/Test-cases.git" target="_blank">Тест-кейсы</a></h3>
-<h3 align="left"><a href="https://github.com/Aleks-vl/Bug-reports.git" target="_blank">Тест-кейсы</a></h3>
+<h3 align="left"><a href="https://github.com/Aleks-vl/Bug-reports.git" target="_blank">Баг-репорты</a></h3>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleks-vl)](https://github.com/anuraghazra/github-readme-stats)
