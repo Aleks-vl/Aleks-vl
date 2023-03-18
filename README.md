@@ -24,4 +24,4 @@
 ### <h2 align="left">Портфолио</h2>
 <h3 align="left"><a href="https://github.com/Aleks-vl/Checklists.git" target="_blank">Чек-листы</a></h3>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks-vl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
