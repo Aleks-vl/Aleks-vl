@@ -1,6 +1,8 @@
 ###   <h1 align="center">Добрый день, я Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">junior QA Engineer</h2> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=blue" alt=""/></div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aleks-vl&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###   <h2 align="left">:woman_technologist: Обо мне</h2>
 
 ###   <h3 align="left">- Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API, открыта к изучению новых технологий</h3>
