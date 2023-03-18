@@ -1,5 +1,10 @@
 ###   <h1 align="center">Добрый день, я Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">junior QA Engineer</h2>
+<h2 align="center">junior QA Engineer</h2> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=blue" alt=""/></div>
+
+###   <h2 align="left">:woman_technologist: Обо мне</h2>
+
+###   <h3 align="left">- Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API, открыта к изучению новых технологий</h3>
+###   <h3 align="left">- На данный момент изучаю JavaScript и автоматизацию тестирования</h3>
 
 ###   <h2 align="left">Мой стек технологий</h2>
 <img src="https://img.shields.io/badge/DevTools-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
@@ -18,3 +23,5 @@
 
 ### <h2 align="left">Портфолио</h2>
 <h3 align="left"><a href="https://github.com/Aleks-vl/Checklists.git" target="_blank">Чек-листы</a></h3>
+
+
