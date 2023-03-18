@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/JavaScript (базовые знания)-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 
 ### <h2 align="left">Портфолио</h2>
-<h3 align="left">Портфолио</h3>
+<h3 align="left"><a href="https://github.com/Aleks-vl/Checklists.git" target="_blank">Чек-листы</a></h3>
