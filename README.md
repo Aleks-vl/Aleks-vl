@@ -1,5 +1,5 @@
-###   <h1 align="center">Добрый день, я Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">QA Engineer</h2> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=blue" alt=""/></div>
+###   <h2 align="center">Добрый день, я Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h3 align="center">QA Engineer</h3> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=blue" alt=""/></div>
 
 ###   <h2 align="left">:woman_technologist: Обо мне</h2>
 
