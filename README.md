@@ -26,7 +26,7 @@
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1ThO9CzkpoxYX5y4ch58-DNNpKRcxHXfOvARPoFcmEEc/edit?usp=share_link">Чек-листы АПИ</a></h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1w1a72Dl5VOp0g8btxkHN2HJYlYJJgjygLuzVPIddSx4/edit?usp=share_link">Тест-кейсы</a></h3>
 <h3 align="left"><a href="https://github.com/Aleks-vl/Bug-reports.git">Баг-репорты</a></h3>
-
+<h3 align="left"><a href="https://github.com/Aleks-vl/Bug-reports.git">Автотесты</a></h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleks-vl)](https://github.com/anuraghazra/github-readme-stats)
 
