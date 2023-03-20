@@ -1,5 +1,6 @@
 ###   <h2 align="center">Добрый день, я Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h2 align="center">QA Engineer</h2> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=blue" alt=""/></div>
+<div id="socials" align="center"><a href="https://t.me/aleksandra_vll"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
 
 ###   <h2 align="left">:woman_technologist: Обо мне</h2>
 
@@ -29,6 +30,7 @@
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1Qsn4wqg_6RwdDFUFdm-vMDB-giVy-PxBzLekYemuF98/edit?usp=share_link">Баг-репорты</a></h3>
 <h3 align="left"><a href="https://github.com/Aleks-vl/js-autotest.git">Автотесты</a></h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleks-vl)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks-vl&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleks-vl&theme=transparent)
+
