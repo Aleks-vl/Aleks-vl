@@ -7,7 +7,7 @@
 ###   <h3 align="left">- Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API, открыта к изучению новых технологий</h3>
 ###   <h3 align="left">- На данный момент изучаю JavaScript и автоматизацию тестирования</h3>
 
-###   <h2 align="left">Мой стек технологий</h2>
+###   <h2 align="left">Cтек</h2>
 <img src="https://img.shields.io/badge/DevTools-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/YouTrack-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/Android Studio-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
