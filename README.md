@@ -2,12 +2,12 @@
 <h2 align="center">QA Engineer</h2> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=blue" alt=""/></div>
 <div id="socials" align="center"><a href="https://t.me/aleksandra_vll"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
 
-###   <h2 align="left">:woman_technologist: Обо мне</h2>
+###   <h3 align="left">:woman_technologist: Обо мне</h3>
 
-###   <h3 align="left">- Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API, открыта к изучению новых технологий</h3>
-###   <h3 align="left">- На данный момент изучаю JavaScript и автоматизацию тестирования</h3>
+###   <h4 align="left">- Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API, открыта к изучению новых технологий</h4>
+###   <h4 align="left">- На данный момент изучаю JavaScript и автоматизацию тестирования</h4>
 
-###   <h2 align="left">Cтек</h2>
+###   <h3 align="left">Cтек</h3>
 <img src="https://img.shields.io/badge/DevTools-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/YouTrack-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/Android Studio-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/HTML/CSS (базовые знания)-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/JavaScript (базовые знания)-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 
-### <h2 align="left">Портфолио</h2>
+### <h3 align="left">Портфолио</h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1sIRVL0U2CbnnavdNAdGsKlEfc0bfS7SscYahVZMFVlI/edit?usp=share_link">Чек-лист</a></h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1ThO9CzkpoxYX5y4ch58-DNNpKRcxHXfOvARPoFcmEEc/edit?usp=share_link">Чек-лист АПИ</a></h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1w1a72Dl5VOp0g8btxkHN2HJYlYJJgjygLuzVPIddSx4/edit?usp=share_link">Тест-кейсы</a></h3>
