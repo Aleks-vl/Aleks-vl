@@ -1,5 +1,5 @@
 ###   <h2 align="center">Добрый день, я Александра <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h2 align="center">QA Engineer</h2> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=blue" alt=""/></div>
+<h2 align="center">QA Engineer</h2> <div align="center"><img src="https://komarev.com/ghpvc/?username=Aleks-vl&style=flat-square&color=green" alt=""/></div>
 <div id="socials" align="center"><a href="https://t.me/aleksandra_vll"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
 
 ###   <h3 align="left">:woman_technologist: Обо мне</h3>
@@ -8,20 +8,20 @@
 ###   <h4 align="left">- На данный момент изучаю JavaScript и автоматизацию тестирования</h4>
 
 ###   <h3 align="left">Cтек</h3>
-<img src="https://img.shields.io/badge/DevTools-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/YouTrack-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/Android Studio-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/Apidoc-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/Swagger-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/JSON-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/XML-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/CygWin-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/VS Code-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/HTML/CSS (базовые знания)-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
-<img src="https://img.shields.io/badge/JavaScript (базовые знания)-blue?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/DevTools-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/YouTrack-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Android Studio-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Apidoc-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Swagger-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Postman-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/JSON-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/XML-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/CygWin-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/VS Code-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/HTML/CSS (базовые знания)-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/JavaScript (базовые знания)-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 
 ### <h3 align="left">Портфолио</h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1sIRVL0U2CbnnavdNAdGsKlEfc0bfS7SscYahVZMFVlI/edit?usp=share_link">Чек-лист</a></h3>
@@ -30,7 +30,6 @@
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1Qsn4wqg_6RwdDFUFdm-vMDB-giVy-PxBzLekYemuF98/edit?usp=share_link">Баг-репорты</a></h3>
 <h3 align="left"><a href="https://github.com/Aleks-vl/js-autotest.git">Автотесты</a></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleks-vl&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aleks-vl&theme=graywhite)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleks-vl&theme=transparent)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleks-vl&theme=graywhite)
