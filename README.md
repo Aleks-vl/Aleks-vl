@@ -4,8 +4,7 @@
 
 ###   <h3 align="left">:heavy_check_mark: Обо мне</h3>
 
-###   <h4 align="left">:black_medium_small_square: Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API, открыта к изучению новых технологий</h4>
-###   <h4 align="left">:black_medium_small_square: На данный момент изучаю JavaScript и автоматизацию тестирования</h4>
+###   <h4 align="left">:black_medium_small_square: Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API, открыта к изучению новых технологий.</h4>
 
 ###   <h3 align="left">:heavy_check_mark: Cтек</h3>
 <img src="https://img.shields.io/badge/DevTools-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/> <img src="https://img.shields.io/badge/Charles-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
