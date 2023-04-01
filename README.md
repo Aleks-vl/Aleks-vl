@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/VS Code-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
+<img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/HTML/CSS (базовые знания)-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 <img src="https://img.shields.io/badge/JavaScript (базовые знания)-gray?style=for-the-badge&logo=<НАЗВАНИЕ ЛОГОТИПА>&logoColor=<ЦВЕТ ЛОГОТИПА>"/>
 
