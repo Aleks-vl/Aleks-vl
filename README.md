@@ -29,6 +29,7 @@
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1w1a72Dl5VOp0g8btxkHN2HJYlYJJgjygLuzVPIddSx4/edit?usp=share_link">Тест-кейсы</a></h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1Qsn4wqg_6RwdDFUFdm-vMDB-giVy-PxBzLekYemuF98/edit?usp=share_link">Баг-репорты</a></h3>
 <h3 align="left"><a href="https://github.com/Aleks-vl/Postman-collections.git">Postman коллекция</a></h3>
+<h3 align="left"><a href="https://github.com/Aleks-vl/SQL.git">SQL запросы</a></h3>
 <h3 align="left"><a href="https://github.com/Aleks-vl/js-autotest.git">Автотесты</a></h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aleks-vl&theme=graywhite)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleks-vl&theme=graywhite)
