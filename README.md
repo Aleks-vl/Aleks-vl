@@ -27,7 +27,7 @@
 
 ### <h3 align="left">:heavy_check_mark: Портфолио</h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1sIRVL0U2CbnnavdNAdGsKlEfc0bfS7SscYahVZMFVlI/edit?usp=share_link">Чек-лист</a></h3>
-<h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1ThO9CzkpoxYX5y4ch58-DNNpKRcxHXfOvARPoFcmEEc/edit?usp=share_link">Чек-лист АПИ</a></h3>
+<h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1ThO9CzkpoxYX5y4ch58-DNNpKRcxHXfOvARPoFcmEEc/edit?usp=share_link">Чек-лист API</a></h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1w1a72Dl5VOp0g8btxkHN2HJYlYJJgjygLuzVPIddSx4/edit?usp=share_link">Тест-кейсы</a></h3>
 <h3 align="left"><a href="https://docs.google.com/spreadsheets/d/1Qsn4wqg_6RwdDFUFdm-vMDB-giVy-PxBzLekYemuF98/edit?usp=share_link">Баг-репорты</a></h3>
 <h3 align="left"><a href="https://github.com/Aleks-vl/mindmap.git">Mind map</a></h3>
