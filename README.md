@@ -4,7 +4,7 @@
 
 ###   <h3 align="left">:heavy_check_mark: Обо мне</h3>
 
-###   <h4 align="left">:black_medium_small_square: Нахожусь в поиске удаленной работы, имею опыт тестирования веб, мобильных приложений, API.</h4>
+###   <h4 align="left">:black_medium_small_square: Имею опыт тестирования веб, мобильных приложений, API.</h4>
 ###   <h4 align="left">:black_medium_small_square: Открыта к изучению новых технологий.</h4>
 
 ###   <h3 align="left">:heavy_check_mark: Cтек</h3>
